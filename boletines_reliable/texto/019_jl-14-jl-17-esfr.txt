@@ -1,0 +1,178 @@
+--- PAGE 0 ---
+Bulletin 019 August 2024
+Model JL14 & JL17 ESFR
+Pendent Sprinklers
+175 psi (12 bar) rated
+Features
+Important! Reliable fire sprinklers must be handled, stored, and
+• cULus, VdS, and LPCB listed as an ESFR sprinkler installed in accordance with the guidelines in Caution Sheet 310
+• FM Approved as a quick-response, storage and non-storage and this bulletin. Failure to follow these instructions may result in
+sprinkler unintended operation or nonoperation of the fire protection system.
+• Fusible link operating element
+• Compact design
+Product Description
+The Reliable Models JL14 and JL17 are Early Suppression
+Fast Response (ESFR) Sprinklers with nominal K-factors of 14.0
+(200 metric) and 16.8 (240 metric), respectively. The sprinklers
+use a levered fusible alloy solder link in either a 165°F (74°C) or a
+212°F (100°C) temperature rating. These sprinklers are designed
+to respond quickly to growing fires and will deliver a heavy water
+discharge to “suppress” rather than “control” fires.
+FM Approvals classifies the Model JL14 and JL17 as quick-
+response sprinklers, storage and non-storage, when used in
+accordance with FM Global Property Loss Prevention Data
+Sheets. Model JL17 ESFR Sprinkler
+Model JL14 and JL17 ESFR sprinklers are designed to be shorter
+and more compact than other ESFR sprinklers, allowing greater
+flexibility with regard to distance from ceilings and obstructions.
+The JL14 and JL17 ESFR sprinklers are also less susceptible to
+damage due to smaller deflector and frame design. The lighter
+JL14 and JL17 ESFR sprinklers passed rough use and abuse
+listing tests without plastic protectors
+Model JL14 ESFR Sprinkler
+Models JL14 & JL17 ESFR Pendent Sprinklers Table A
+Nominal K-factor Sprinkler Identification
+Model Approvals
+gpm/psi1/2 (L/min/bar1/2) Number (SIN)
+cULus, FM, VdS, LPCB,
+JL14 14.0 (200) RA1812
+CNBOP-PIB, CE
+cULus, FM, VdS, LPCB,
+JL17 16.8 (240) RA1914
+CNBOP-PIB, CE
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model JL14 ESFR Sprinkler SIN RA1812
+Technical Specifications Sensitivity
+Style: Pendent Fast-Response
+Connection: 3/4” NPT or ISO7-1R3/4 (BSPT) Quick-Response (FM)
+threads
+Nominal K-Factor: 14.0 (200 metric) Temperature Ratings
+Max. Working Pressure: 175 psi (12 bar) Ordinary: 165°F (74°C)
+Intermediate: 212°F (100°C)
+Material Specifications
+Thermal Sensor: Beryllium Nickel Solder Link Sprinkler Wrench
+Sprinkler Frame: Brass Alloy Model J1
+Cap: Bronze Alloy
+Sealing Assembly: Nickel Alloy with PTFE Guards & Shields
+Load Screw: Bronze Alloy Model S-3 Water Shield (FM)*
+Deflector: Bronze Alloy
+Kick Spring: Stainless Steel Alloy Listings and Approvals
+cULus
+Sprinkler Finishes FM Approved
+Bronze VdS
+LPCB
+CNBOP-PIB
+CE (2809-CPR-M0015)
+*Note: Model JL14 fire sprinkler is FM Approved with Model S-3 Water Shield for use as a pendent intermediate level sprinkler. Model
+S-3 Water Shield diameter is 3-3/4” (95mm).
+Model JL14 Sprinkler Components and Dimensions Figure 1
+Bulletin 019 Page 2 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model JL17 ESFR Sprinkler SIN RA1914
+Technical Specifications Sensitivity
+Style: Pendent Fast-Response
+Connection: 3/4” NPT or ISO7-1R3/4 (BSPT) Quick-Response (FM)
+threads
+Nominal K-Factor: 16.8 (240 metric) Temperature Ratings
+Max. Working Pressure: 175 psi (12 bar) Ordinary: 165°F (74°C)
+Intermediate: 212°F (100°C)
+Material Specifications
+Thermal Sensor: Beryllium Nickel Solder Link Sprinkler Wrench
+Sprinkler Frame: Brass Alloy Model J1
+Cap: Bronze Alloy
+Sealing Assembly: Nickel Alloy with PTFE Guards & Shields
+Load Screw: Bronze Alloy Model S-3 Water Shield (FM)*
+Deflector: Bronze Alloy
+Kick Spring: Stainless Steel Alloy Listings and Approvals
+cULus
+Sprinkler Finishes FM Approved
+Bronze VdS
+LPCB
+CNBOP-PIB
+CE (2809-CPR-M0015)
+*Note: Model JL17 fire sprinkler is FM Approved with Model S-3 Water Shield for use as a pendent intermediate level sprinkler. Model
+S-3 Water Shield diameter is 3-3/4” (95mm).
+Model JL17 Sprinkler Components and Dimensions Figure 2
+Bulletin 019 Page 3 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 3 ---
+Model JL14 and JL17 Commodity Selection and Design Criteria Overview Table B
+Storage Type NFPA FM GLOBAL
+Sprinkler Type ESFR Storage
+Response Type ESFR Quick Response
+System Type Wet Wet
+Temperature Rating °F (°C) 165 (74), 212 (100) 165 (74), 212 (100)
+Roof Construction See NFPA 13 See FM Global 2-0
+Ceiling Slope See NFPA 13 See FM Global 2-0
+Maximum Coverage Area See NFPA 13 See FM Global 2-0
+Minimum Coverage Area See NFPA 13 See FM Global 2-0
+Maximum Spacing See NFPA 13 See FM Global 2-0
+Minimum Spacing See NFPA 13 See FM Global 2-0
+Minimum Clearance to Commodity See NFPA 13 See FM Global 2-0
+Sprinkler Distance to Ceiling See NFPA 13 See FM Global 2-0
+Open Frame, Single, Double, Multiple
+Row, or Portable Rack Storage of Class See NFPA 13 See FM 2-0 & 8-9
+I-IV Commodities and Group A Plastics
+Solid Pile or Palletized Storage of Class
+See NFPA 13 See FM 2-0 & 8-9
+I-IV Commodities and Group A Plastics
+Idle Pallet Storage See NFPA 13 See FM 2-0, 8-9 & 8-24
+Rubber Tire Storage See NFPA 13 See FM 2-0 & 8-3
+Rolled Paper Storage See NFPA 13 See FM 8-21
+Flammable Liquid Storage See NFPA 30 See FM 7-29
+Aerosol Storage See NFPA 30B See FM 7-31
+Auto Components in Portable Racks See NFPA 13 See FM 2-0 and 8-9
+Bulletin 019 Page 4 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 4 ---
+Installation
+Model J1 Sprinkler Wrench Figure 3
+Model JL14 and JL17 sprinklers are intended for installation in
+accordance with NFPA 13 and FM Loss Prevention Data Sheets
+2-0 and 8-9, as well as the requirements of any Authorities Having
+Jurisdiction. See Table B for information on NFPA and FM Global
+design criteria for the Model JL14 and JL17 sprinklers.
+For threaded sprinklers only, use the Model J1 sprinkler wrench for
+removal and installation. Any other type of wrench may damage
+the sprinkler. A grooved wrench boss is provided on the sprinkler to Guarantee
+limit the potential for the wrench to slip during installation.
+For the Reliable Automatic Sprinkler Co., Inc. guarantee, terms, and
+When handling sprinklers, hold sprinklers only on frame arms and conditions, visit www.reliablesprinkler.com.
+do not apply any force on the link assembly. Model JL14 and JL17
+sprinklers should be tightened between 14 - 40 ft-lbs (19 - 54
+Ordering Information
+N·m) torque. Sprinklers not tightened to recommended torque may
+cause leakage or impairment of the sprinkler. Damaged sprinklers Specify
+must be replaced immediately. • Sprinkler: [JL14] [JL17]
+• Temperature Rating: [165°F (64°C)] [212°F (100°C)]
+Caution: When handling sprinklers, hold sprinklers only by the • End Connection: [3/4” NPT] [ISO7-1R3/4 (BSPT)]
+frame arms and do not apply any force on the link assembly.
+Optional
+Maintenance • S-3 Water Shield (threaded sprinklers only)
+Model JL14 and JL17 ESFR Sprinklers should be inspected and
+the sprinkler system maintained in accordance with NFPA 25. Do
+not clean sprinkler with soap and water, ammonia or any other
+cleaning fluid. Replace any sprinkler that has been painted (other
+than factory applied) or damaged in any way. A stock of spare
+sprinklers should be maintained to allow quick replacement of
+damaged or operated sprinklers. Prior to installation, sprinklers
+should be maintained in the original cartons and packaging until
+used, to minimize the potential for damage to sprinklers that would
+cause improper operation or non-operation.
+Once operated, automatic sprinklers cannot be reassembled and
+reused. New sprinklers of the same size, type and temperature
+rating must be installed. A cabinet of replacement sprinklers should
+be provided for this purpose.
+Listings and Approvals
+1. UL Listed and ULC Certified for Canada (cULus)
+2. FM Approved (FM)
+3. VdS Certified (VdS)
+4. Loss Prevention Certification Board Approved (LPCB)
+5. CNBOP-PIB Technical Approval (CNBOP-PIB)
+6. CE (2809-CPR-M0015, 2809-CPR-M0016)
+Bulletin 019 Page 5 of 5
+August 2024 www.reliablesprinkler.com
+9730799999
+N/P

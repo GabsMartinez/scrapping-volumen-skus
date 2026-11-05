@@ -1,0 +1,196 @@
+--- PAGE 0 ---
+Bulletin 132 August 2024
+Model GL112 Series Sprinklers
+Storage & Non-Storage Sprinklers
+K11.2 (160 metric)
+Product Description
+Important! Reliable fire sprinklers must be handled, stored, and
+installed in accordance with the guidelines in Caution Sheet 310
+Reliable Model GL112 upright and pendent sprinklers are
+and this bulletin. Failure to follow these instructions may result in
+standard coverage quick response sprinklers utilizing a
+unintended operation or nonoperation of the fire protection system.
+levered fusible allow solder link thermal element in 165°F
+(74°C) or 212°F (100°C) temperature rating. These sprinklers
+are intended for use in hydraulically calculated control mode
+density area (CMDA) storage and non-storage occupancies in
+accordance with the area/density curves of NFPA 13 or other
+applicable standards.
+The Model GL112 sprinkler is FM Approved as a quick
+response storage and non-storage sprinkler when used in
+accordance with FM Global Property Loss Prevention Data
+Sheets.
+The Model GL112 is provided with 3/4-inch NPT or ISO 7-R3/4
+threads. Sprinklers without guards are installed using the
+Model H wrench. Upright Pendent
+For use as an intermediate level sprinkler, the Model GL112 Model GL112 Series Sprinklers
+upright sprinkler is available with a factory installed water
+shield. Various other water shields, guards, or guard/shield
+options are also available for both upright and pendent
+models (please refer to Technical Specifications on following
+pages). Sprinkler guards or guard/shields may be installed in
+the field or factory installed. Use of the Model W15 sprinkler
+wrench is required for installation where a guard is added to
+the sprinkler prior to threading the assembly into a fitting.
+To further the development of environmentally compatible and
+more sustainable construction methods, Reliable has developed
+and ASTM International has published an Environmental Product
+Declarations (EPD) for the Model GL112 Series sprinklers.
+Upright with Factory Installed Shield
+Model GL112 Specifications Table A
+Sprinkler Identification Listings and
+Style Sensitivity K-Factor
+Number (SIN) Approvals
+Upright R3226 FM
+11.2
+Quick Response
+(160 metric)
+Pendent R3216 FM
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model GL112 Upright Sprinkler SIN R3226
+Sensitivity
+Technical Specifications
+Quick Response
+Style: Upright
+Threads: 3/4” NPT or ISO 7-1R3/4
+Temperature Ratings
+Nominal K-Factor: 11.2 (160 metric)
+165°F (74°C)
+Max. Working Pressure: 175 psi (12 bar)
+212°F (100°C)
+Material Specifications
+Guards & Water Shields
+Thermal Sensor: Nickel Alloy Solder Link
+D-7 Guard & Water Shield
+Sprinkler Frame: Brass Alloy
+D-8 Guard
+Button/Cup: Brass Alloy
+Water Shield (factory installed)
+Sealing Assembly: Brass with PTFE
+Load Screw: Bronze
+Sprinkler Wrench
+Deflector: Bronze Alloy
+Model H
+Levers: Bronze Alloy
+Model W15 (when guard is installed prior to
+Ejection Spring: Stainless Steel
+make-in)
+Sprinkler Finishes
+Listings and Approvals
+Standard (Bronze) Only
+FM Approved
+Model GL112 Upright Components and Dimensions Figure 1
+Bulletin 132 Page 2 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model GL112 Pendent Sprinkler SIN R3216
+Sensitivity
+Technical Specifications
+Quick Response
+Style: Pendent
+Threads: 3/4” NPT or ISO 7-1R3/4
+Temperature Ratings
+Nominal K-Factor: 11.2 (160 metric)
+165°F (74°C)
+Max. Working Pressure: 175 psi (12 bar)
+212°F (100°C)
+Material Specifications
+Guards & Water Shields
+Thermal Sensor: Nickel Alloy Solder Link
+D-8 Guard
+Sprinkler Frame: Brass Alloy
+D-9 Guard & Water Shield
+Button/Cup: Brass Alloy
+S-2 Water Shield
+Sealing Assembly: Brass Alloy with PTFE
+Load Screw: Bronze
+Sprinkler Wrench
+Deflector: Bronze Alloy
+Model H
+Levers: Bronze Alloy
+Model W15 (when guard is installed prior to
+Ejection Spring: Stainless Steel
+make-in)
+Sprinkler Finishes
+Listings and Approvals
+Standard (Bronze) Only
+FM Approved
+Model GL112 Pendent Components and Dimensions Figure 2
+Bulletin 132 Page 3 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 3 ---
+Model GL112 Commodity Selection and Design Criteria Overview Table B
+Storage Type NFPA FM Global
+Sprinkler Type CMDA Storage
+Response Type QR QR
+Pendent - Wet Pendent - Wet
+System Type
+Upright - Wet, Dry, Preaction Upright - Wet, Dry, Preaction
+Temperature Rating °F (°C) 165, 212 (74, 100) 165, 212 (74, 100)
+Roof Construction See NFPA 13 See FM Global 2-0
+Ceiling Slope See NFPA 13 See FM Global 2-0
+Maximum Coverage Area See NFPA 13 See FM Global 2-0
+Minimum Coverage Area See NFPA 13 See FM Global 2-0
+Maximum Spacing See NFPA 13 See FM Global 2-0
+Minimum Spacing See NFPA 13 See FM Global 2-0
+Minimum Clearance to Commodity See NFPA 13 See FM Global 2-0
+Sprinkler Distance to Ceiling See NFPA 13 See FM Global 2-0
+Open Frame, Single, Double, Multiple
+Row, or Portable Rack Storage of Class See NFPA 13 See FM 2-0 & 8-9
+I - IV Commodity and Group A Plastic
+Solid Pile or Palletized Storage of Class
+See NFPA 13 See FM 2-0 & 8-9
+I - IV Commodity and Group A Plastic
+Idle Pallet Storage See NFPA 13 See FM 2-0, 8-9 & 8-24
+Pendent - N/A
+Rubber Tire Storage See NFPA 13
+Upright - See FM 8-21
+Rolled Paper Storage See NFPA 13 See FM 8-21
+Flammable Liquid Storage See NFPA 13 See FM 7-29 & 8-9
+Aerosol Storage See NFPA 13 See FM 7-31
+Auto Components in Portable Racks See NFPA 13 See FM 2-0 and 8-9
+Bulletin 132 Page 4 of 5
+August 2024 www.reliablesprinkler.com
+--- PAGE 4 ---
+Installation
+Maintenance
+The Reliable Model GL112 QR sprinkler must be installed
+according to NFPA Standards or the appropriate FM Global Reliable Model GL112 sprinklers should be inspected and the
+Data Sheets for all area/density methods of design as well as sprinkler system maintained in accordance with NFPA
+the Authority Having Jurisdiction. 25, as well as the requirements of any Authorities Having
+Jurisdiction.
+Use only the Model H sprinkler wrench for sprinkler installation
+or use the Model W15 wrench to install the sprinkler/guard Prior to installation, sprinklers should remain in the original
+assembly (Figure 3). Any other type of wrench may damage cartons and packaging until used. This will minimize the
+the sprinkler. Damaged sprinklers must be replaced potential for damage to sprinklers that could cause improper
+immediately. operation or non-operation.
+Note: Sprinklers should be tightened between 14-20 lb-ft Do not clean sprinklers with soap and water, ammonia liquid or
+(19-27.1 N.m) torque. Exceeding the maximum recommended any other cleaning fluids. Remove dust by gentle vacuuming
+torque may cause leakage or impairment of the sprinklers. without touching the sprinkler.
+Replace any sprinkler which has been painted (other than
+factory applied). A stock of spare sprinklers should be
+Wrenches Figure 3 maintained to allow quick replacement of damaged or
+operated sprinklers.
+Failure to properly maintain sprinklers may result in inadvertent
+operation or non-operation during a fire event.
+Model H Wrench (sprinkler) Guarantee
+For the Reliable Automatic Sprinkler Co., Inc. guarantee, terms,
+and conditions, visit www.reliablesprinkler.com.
+Ordering Information
+Specify the following when ordering.
+Model GL112 Sprinkler
+• [Upright] [Pendent] [Upright with factory installed
+Model W15 Wrench (with guard installed)
+shield]
+Temperature Rating
+• [165°F (74°C)] [212°F (100°C)]
+Guard/Shield
+• See Technical Specifications
+Sprinkler Wrench
+• [Model H] [Model W15 (required with pre-installed
+guards)]
+Bulletin 132 Page 5 of 5
+August 2024 www.reliablesprinkler.com
+2240799999
+N/P

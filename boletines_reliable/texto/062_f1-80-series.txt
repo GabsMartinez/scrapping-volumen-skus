@@ -1,0 +1,285 @@
+--- PAGE 0 ---
+Bulletin 062 June 2025
+F1-80 Series
+Standard-Response Sprinklers
+K-factor 8.0 (115)
+Features
+Important! Reliable fire sprinklers must be handled, stored, and
+• Standard coverage standard-response sprinklers installed in accordance with the guidelines in Caution Sheet 310
+• Upright and pendent orientations and this bulletin. Failure to follow these instructions may result in
+• Low profile, compact design unintended operation or nonoperation of the fire protection system.
+• Available in a wide variety of finishes
+• Available as Intermediate Level sprinklers
+Product Description
+Reliable Model F1 series sprinklers are standard-response
+standard spray automatic fire sprinklers utilizing a 5mm glass bulb
+thermal element.
+Pendent sprinklers may be installed exposed or surface mounted
+using escutcheons such as the Reliable Models B, C, or HB
+(reference Technical Bulletin 204). When installed recessed, the
+Model F1-80 series sprinklers are specifically listed with and
+may only be installed with listed Reliable recessed escutcheons.
+Model F1-80 Upright
+Refer to the technical information on the following pages for
+specific listings for recessed installations and refer to Figure 3 for
+dimensional information.
+When fitted with an approved Reliable water shield, these
+sprinklers may considered intermediate sprinklers for use
+in racks, below grated walkways, and other areas where
+intermediate level sprinklers are required.
+Table A provides a summary of the approvals and availability
+of specific Model F1 series sprinkler configurations. Additional
+technical information for each sprinkler model is provided on the
+following pages. Model F1-80 Pendent
+Note: Not all versions of the product are shown.
+F1-80 Series Sprinkler Summary Table A
+Sprinkler
+Sprinkler K-Factor gpm/psi1/2 Max. Working Pressure
+Listings & Approvals Orientation Identification
+Model (lpm/bar1/2) psi (bar)
+Number (SIN)
+Upright RA6222
+175 (12) cULus, FM, LPCB, VdS,
+F1-80 8.0 (115)
+250 (17) (cULus only) CE, UKCA
+Pendent RA6212
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model F1-80 Upright Sprinkler SIN RA6222
+Technical Specifications Temperature Ratings
+Style: Upright 135°F (57°C)
+Threads: 3/4” NPT or ISO 7-R3/4 155°F (68°C)
+Nominal K-Factor: 8.0 (115) 175°F (79°C)
+Max. Working Pressure: 200°F (93°C)
+175 psi (12 bar) 286°F (141°C)
+250 psi (17 bar) (cULus only) 360°F (182°C)
+Material Specifications Guards & Shields
+Thermal Sensor: 5mm Glass Bulb F-1 Guard (cULus)
+Sprinkler Frame: Brass Alloy F-2 Guard (FM)
+Cap: Bronze Alloy F-3 Guard with Shield (cULus, FM)
+Sealing Washer: Nickel with PTFE
+Sprinkler Wrenches
+Load Screw: Copper Alloy
+Model W2
+Deflector: Brass Alloy
+Model W14 (with guard installed)
+Listings and Approvals
+Sprinkler Finishes
+cULus
+(See Table B)
+FM
+Sensitivity LPCB
+Standard response VdS
+CE
+UKCA: 0832-UKCA-CPR-S5076
+Model F1-80 Upright Sprinkler Components and Dimensions Figure 1
+3 1/4" [83mm]
+Load Screw 1 3/8" [33mm]
+Deflector
+Glass Bulb
+(3 mm)
+F1FR_THREE QTR_UPR_INT
+2 1/2" [62mm]
+Wrench Flat
+Cap/Seal Assembly
+Threads
+Shown with Optional
+Factory Installed Water Shield
+( Intermediate Upright)
+Bulletin 062 Page 2 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model F1-80 Pendent Sprinkler SIN RA6212
+Technical Specifications
+Temperature Ratings(1)
+Style:
+135°F (57°C)
+Pendent
+155°F (68°C)
+Recessed Pendent
+175°F (79°C)
+Threads: 3/4” NPT or ISO 7-R3/4
+200°F (93°C)
+Nominal K-Factor: 8.0 (115)
+286°F (141°C)
+Max. Working Pressure:
+360°F (182°C)
+175 psi (12 bar)
+250 psi (17 bar) (cULus only)
+Recessed Escutcheons
+Material Specifications Model F1 (cULus)
+Thermal Sensor: 5mm Glass Bulb Model F2 (cULus, FM)
+Sprinkler Frame: Brass Alloy Model FP (cULus)
+Cap: Bronze Alloy
+Sealing Washer: Nickel with PTFE Guards & Shields(2)
+Load Screw: Copper Alloy F-2 Guard (FM)
+Deflector: Brass Alloy F-6 Guard/Shield Kit (FM)
+F-7 Guard (cULus)
+F-8 Guard/Shield Kit (cULus)
+Sprinkler Finishes
+S-2 Shield (cUlus, FM)
+(See Table B)
+Sensitivity Sprinkler Wrenches
+Standard response Model W2 (pendent)
+Model W1 (recessed)
+Model W14 (with guard installed)
+Listings and Approvals(3)
+cULus Listed
+FM Approved
+LPCB
+VdS
+CE
+UKCA: 0832-UKCA-CPR-S5077
+Notes:
+1. 286°F (141°C) and higher temperature rated sprinklers not listed for recessed use.
+2. Not suitable for use with recessed pendent installations.
+3. When used surface mounted or exposed. See Recessed Escutcheon section for specific approvals when installed recessed.
+Model F1-80 Pendent Sprinkler Components and Dimensions Figure 2
+3 1/4" [83mm]
+Threads
+F1FR_THREE QTR_PEND_INT 2 3/8" [61mm]
+Wrench Flat
+Cap/Seal
+Assembly
+Glass Bulb
+(3 mm)
+Deflector
+Load Screw
+1 1/4" [30mm]
+Shown with Optional S-1 Water
+Shield (Ordered Separately)
+Note: Please refer to Figure 3 for recessed installation.
+Bulletin 062 Page 3 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 3 ---
+Recessed Installation: Pendent Sprinklers Figure 3
+2-1/4" 2-1/4"
+(57 mm) Dia. (57 mm) Dia.
+Hole in Ceiling Hole in Ceiling
+1-15/16" 1-15/16"
+(49 mm) Dia. Reducing (49 mm) Dia. Reducing
+Fitting Fitting
+Face of Fitting Face of Fitting
+to Face of Ceiling to Face of Ceiling
+1-1/8" (29 mm) at 7/8" (22 mm) at
+Max. Recess Max. Recess
+3/8" (10 mm) at 3/8" (10 mm) at
+Min. Recess Min. Recess
+1-3/4" 1-3/4"
+(44 mm) 1" (44 mm) 1-1/4"
+(25 mm) (32 mm)
+Minimum Maximum Minimum Maximum
+Recess 2-7/8" (72 mm) Dia. Recess Recess 2-7/8" (72 mm) Dia. Recess
+Models F1 & F1FR Pendent Sprinkler Models F1 & F1FR Pendent Sprinkler
+with Model F1 Recessed Escutcheon with Model F2 Recessed Escutcheon
+3/4" (19mm) Nominal Adjustment 1/2" (13mm) Nominal Adjustment
+F1_REC_PEND
+2-1/2"
+(64 mm) Dia.
+Hole in Ceiling
+2-5/16"
+(59 mm) Dia. Reducing
+Fitting
+Face of Fitting
+to Face of Ceiling
+Vented Cup 1-1/2" (38 mm) at
+Max. Recess
+1" (25 mm) at
+Min. Recess
+1"
+(25 mm) 1/2"
+(12 mm)
+Minimum
+Recess 3-3/16" (78 mm) Dia. Maximum
+Recess
+Models F1 & F1FR Pendent Sprinkler
+with Model FP Recessed Escutcheon
+1/2" (13mm) Nominal Adjustment
+Note: Model FP recessed assemblies may not be used where the
+pressure in the space above the ceiling is positive with respect to
+the protected area. Ensure that the openings in the Model FP cup
+are unobstructed following installation.
+FP Escutcheon F1 Escutcheon
+(F2 Similar)
+Bulletin 062 Page 4 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 4 ---
+Wrenches
+Model W1
+Model W2 (upright, pendent) (recessed pendent)
+Model W14 (with guard installed)
+Sprinkler and Escutcheon Finishes(1) Table B
+Standard Finishes Special Application Finishes
+Sprinkler F1, F2 and FP(2) Escutcheons Sprinkler F1, F2 and FP(2) Escutcheons
+Bronze Brass Electroless Nickel PTFE(3)(4) Bright Brass
+Chrome Plated Chrome Plated Bright Brass(5) Satin Chrome
+White Polyester(3) White Polyester Satin Chrome Custom Color Polyester
+Custom Color Polyester(3)(6)
+Lead Plated(3)
+Wax Coated(3)(7)
+Wax Over Lead(3)(7)
+Notes:
+1. Paint or any other coating applied over the factory finish will void all approvals and warranties.
+2. Model FP escutcheons utilize a galvanized steel cup with a finished trim ring.
+3. cULus Listed as corrosion resistant.
+4. FM Approved as corrosion resistant.
+5. For 200°F (93°C) maximum temperature rated sprinklers only.
+6. cULus only.
+7. Clear wax used on ordinary temperature rated sprinklers; brown wax used on intermediate temperature rated sprinklers. Brown wax may be used on
+high temperature rated sprinklers where the ambient temperature does not exceed 150°F (66°C).
+Installation Maintenance
+Model F1 Series sprinklers must be installed in accordance with Reliable Model F1 series sprinklers should be inspected and the
+NFPA13 and the requirements of all applicable authorities having sprinkler system maintained in accordance with NFPA 25, as well
+jurisdiction. Model F1 Series sprinklers must be installed with the as the requirements of any Authorities Having Jurisdiction.
+Reliable sprinkler installation wrench identified in this Bulletin. Any
+Prior to installation, sprinklers should remain in the original
+other wrench may damage the sprinkler. A leak tight sprinkler joint
+cartons and packaging until used. This will minimize the potential
+can be obtained with a torque of 8 to 18 lb-ft (11 to 24 N.m). Do
+for damage to sprinklers that could cause improper operation or
+not tighten sprinklers over the maximum recommended installation
+non-operation.
+torque. Exceeding the maximum recommended installation torque
+may cause leakage or impairment of the sprinkler. Do not clean sprinklers with soap and water, ammonia liquid or
+any other cleaning fluids. Remove dust by gentle vacuuming
+Glass bulb sprinklers have orange bulb protectors or protective without touching the sprinkler.
+caps to minimize bulb damage during shipping, handling and Replace any sprinkler which has been painted (other than factory
+installation. Reliable sprinkler installation wrenches are designed applied). A stock of spare sprinklers should be maintained to
+to install sprinklers with bulb protectors in place. Remove the bulb allow quick replacement of damaged or operated sprinklers.
+protector at the time when the sprinkler system is placed in service Failure to properly maintain sprinklers may result in inadvertent
+for fire protection. Removal of the bulb protector before this time operation or non-operation during a fire event.
+may leave the bulb vulnerable to damage. Remove bulb protectors
+by undoing the clasp by hand. Do not use tools to remove bulb
+protectors.
+Bulletin 062 Page 5 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 5 ---
+2050799999
+N/P
+Guarantee
+For the guarantee, terms, and conditions, visit www.
+reliablesprinkler.com.
+Ordering Information
+Specify the following when ordering:
+Model
+• F1-80
+Deflector/Orientation
+• Upright
+• Upright Intermediate
+• Pendent
+Temperature Rating
+• See sprinkler technical specifications
+Sprinkler Finish
+• See Table B
+Recessed Escutcheon
+• F1
+• F2
+• FP
+Escutcheon Finish
+• See Table B
+Sprinkler Wrench
+• Model W2 (upright and pendent)
+• Model W1 (recessed)
+• Model W14 (with guard installed)
+Bulletin 062 Page 6 of 6
+June 2025 www.reliablesprinkler.com

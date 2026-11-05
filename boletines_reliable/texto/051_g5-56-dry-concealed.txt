@@ -1,0 +1,320 @@
+--- PAGE 0 ---
+Bulletin 051 September 2025
+Model G5-56 Series
+Concealed Dry Pendent Sprinkler
+Features
+Important! Reliable fire sprinklers must be handled, stored, and
+installed in accordance with the guidelines in Caution Sheet 310
+• Flat cover plate in a variety of finishes
+and this bulletin. Failure to follow these instructions may result in
+• Stainless steel clad cover plate option
+unintended operation or nonoperation of the fire protection system.
+• Optional cover plate gasket to limit air and dust movement
+through ceiling.
+Product Description
+The Model G5-56 is a standard coverage concealed dry pendent
+sprinkler with a nominal K-factor of 5.6 (80 metric). The sprinkler
+is UL listed as a quick response sprinkler, and FM Approved as a
+standard response non-storage sprinkler.
+Model G5-56 dry sprinklers are intended for installation on wet
+pipe, dry pipe, or preaction systems in accordance with NFPA 13,
+FM Property Loss Prevention Data Sheets, or other applicable
+installation standards.
+The Model G5-56 utilizes a fast-response 165°F (74°C) ordinary
+or 212°F (100°C) intermediate temperature rated thermal
+operating element. Cover plates for ordinary temperature
+sprinklers are rated at 135°F (57°C). Cover plates for
+intermediate temperature sprinklers are rated at 165°F (74°C).
+Cover plates for the Model G5-56 dry sprinklers are available in a
+variety of finishes as shown on the following pages. The Reliable
+Model G5 cover plate shown is the only cover plate listed for use
+with the sprinkler. The use of any other cover plate will void all
+guarantees, warranty, listing, and approvals.
+Model G5-56 Concealed Dry Pendent Sprinkler
+Standard inlet fitting threads are 1” NPT or ISO7-R1 threads.
+(Shown without cover plate)
+Table A provides a basic summary of the Model G5-56 concealed
+dry sprinkler. Additional technical information is provided on the
+following individual sprinkler pages.
+Sprinkler Summary Table A
+K-Factor Max. Working Sprinkler
+Model gpm/psi1/2 Approvals Pressure Identification
+(lpm/bar1/2) psi (bar) Number (SIN)
+cULus (Quick response)
+G5-56 Dry Pendent 5.6 (80) FM (Standard response) 175 (12.0) RA5114
+CE
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model G5-56 Dry Pendent: Standard Escutcheon - SIN RA5114 Table B
+“A” Dimension Temperature Fusible Link
+Temperature Rating Approvals Sprinkler Guard
+in (mm) Classification Color
+4-1/4" to 48" (108mm to Ordinary 165°F (74°C) Black cULus (Quick response)
+1219mm) in 1/4" (6mm) FM (Standard response) N/A
+increments Intermediate 212°F (100°C) White CE
+Note: Standard inlet fitting threads are 1” NPT or ISO7-R1.
+Model G5-56 Dry Pendent Sprinkler: Standard Escutcheon Figure 1
+Finishes
+Sprinkler Cover Plate(1)
+White Painted
+Euro White Painted
+System Fitting
+Off White Painted
+2-5/8"
+Black Painted
+[67 mm] Dia.
+Hole in Ceiling Custom Color Painted
+"A" Dimension Chrome
+2-5/16" Sprinkler Bronze
+Satin Chrome
+[59 mm] Cup Assembly
+Bright Brass
+Nominal Position 1/2" [12 mm]
+Finished Bronze
+of Cover Plate Total Cover Plate Adjustment
+Cover Plate 1/4" [6 mm] Printed Wood Grain
+Assembly Cover Plate Adjustment
+Custom Printed
+Stainless Steel Clad(2)
+Notes:
+1. Additional information found on Technical Bulletin 203.
+1/4" [6 mm ] Min. to 1/4" [6 mm] 051_GENERAL 2. Stainless steel clad cover plates are Type 316 Stainless Steel on the
+5/8" [16 mm] Max. Cover Plate Adjustment finished side and C102 Copper Alloy on the back side. Cover plates
+Dropped Deflector to Ceiling
+are not listed or approved as corrosion resistant.
+Notes:
+1. Model G5-56 dry sprinklers may not be used where the pressure in the space behind the sprinkler is
+positive with respect to the protected area. Ensure that the openings around the sprinkler cup are
+unobstructed following installation.
+2. Model G5-56 dry sprinklers should not be used in freezers where NFPA 13 requires the annular space
+around the freezer panel penetration to be sealed.
+Bulletin 051 Page 2 of 8
+September 2025 www.reliablesprinkler.com
+--- PAGE 2 ---
+Installation (General)
+Dry sprinklers connected to wet pipe systems must be installed Note: Consideration should be given to the need for future
+as indicated in Figure 2 and as required by NFPA 13 with the removal of the sprinklers. A pipe wrench can impart a large
+Exposed Minimum Barrel Length located in a heated area. amount of torque when installing the sprinkler. The installation
+torque will have to be matched or exceeded to remove the
+Reliable Model G5-56 dry sidewall sprinklers may be installed in sprinkler. The recommended minimum to maximum installation
+ductile or malleable cast iron threaded tees, or CPVC tees and torque is 22-30 lb-ft (30 - 40 N-m).
+adapters upon verification that the sprinkler inlet fitting does not
+interfere with the interior of the fitting (see Figure 3). 6. Reinstall the protective cap following installation of the
+sprinkler, until the cover plate is installed.
+DO NOT install Reliable Model G5-56 dry sidewall sprinklers into 7. To install the cover plate, remove the protective cap and
+elbows or couplings, welded outlets, mechanical tees, or gasket thread the cover plate into the cup turning the cover plate in
+sealed CPVC fittings. the clockwise direction until it is tight against the ceiling.
+DO NOT install Reliable Mode G5-56 dry sprinklers where the Note: For cover plates using a sealing gasket, the gasket should
+pressure in the space above the ceiling is higher than that in the be attached to the flange of the cover plate skirt only. Do not glue
+protected space. the gasket in place or allow the gasket to overlap both the cover
+plate and the flange of the skirt.
+Installation of the Model G5-56 Dry sprinkler is not recommended
+in copper pipe systems, as this may reduce the life expectancy of
+the sprinkler. Optional Cover Plate with Gasket
+See Figure 4 for acceptable and unacceptable installation
+practices.
+Install the Model G5-56 Concealed Dry Sprinkler following
+these steps:
+1. Cut a 2-5/8 inch (67mm) diameter hole in the ceiling directly
+in-line with the outlet of the tee.
+2. Apply pipe joint compound or Polytetrafluoroethylene (PTFE)
+tape to the threads of the sprinkler’s inlet fitting.
+3. A protective cap is provided to protect the drop-down Model G5 QR Gasket Model G5 SR Gasket
+sprinkler deflector from damage which could occur during Cover Plate Cover Plate
+construction before the cover plate is installed. The cap is (cULus Listed) (FM Approved)
+factory installed inside the sprinkler cup. Remove the cap to
+install sprinkler (step 4) then reinstall cap until the cover plate Notes:
+is installed. 1. Model G5 QR and Model G5 SR cover plates with
+4. Install the sprinkler in the tee using the Model FC wrench. sealing gaskets are sold as assembled units and are NOT
+The Model FC wrench has a socket drive which is inserted interchangeable.
+into the sprinkler’s cup and around the body of the sprinkler. 2. Sealing gaskets are ONLY available with white and stainless
+When inserting or removing the wrench from the sprinkler/ steel clad Model G5 cover plates.
+cup assembly, care should be taken to prevent damage to 3. cULus listing of the sprinkler as quick-response is not
+the sprinkler. The sprinkler is then tightened into the pipe affected when using the Model G5 QR cover plate with
+fitting to achieve a leak free connection. Do NOT wrench any sealing gasket.
+part of the sprinkler/cup assembly.
+5. (Alternate) Where access to the outer tube of the sprinkler
+is available, the Model G5-56 Dry sprinkler may be installed
+using a pipe wrench. The pipe wrench shall only be
+permitted to interface with the steel outer tube portion of the
+sprinkler Do NOT wrench any other part of the sprinkler/cup
+assembly.
+Bulletin 051 Page 3 of 8
+September 2025 www.reliablesprinkler.com
+--- PAGE 3 ---
+September
+2025
+www.reliablesprinkler.com
+Bulletin
+051
+Page
+4
+of
+8
+Figure 2
+MINIMUM EXPOSED BARREL LENGTH WHEN CONNECTED TO WET PIPE SPRINKLER SYSTEM
+SUPPLY
+PIPING
+EXPOSED BARREL
+AMBIENT AMBIENT TEMPERATURE
+TEMPERATURE
+OF PROTECTED 40°F/4°C 50°F/10°C 60°F/16°C
+AREA* AT THE
+DISCHARGE END EXPOSED MINIMUM BARREL LENGTH**
+OF THE SPRINKLER (FACE OF TEE TO TOP OF CEILING)
+IN. (MM) IN. (MM) IN. (MM)
+40°F (4°C) 0 0 0 NOTE: TEE MAY BE IN
+ANY ORIENTATION
+30°F (-1°C) 0 0 0
+20°F (-7°C) 4 (100) 0 0
+10°F (-12°C) 8 (200) 1 (25) 0
+0°F (-18°C) 12 (300) 3 (75) 0 MINIMUM
+HEATED
+EXPOSED
+-10°F (-23°C) 14 (350) 4 (100) 1 (25) BARREL AREA
+-20°F (-29°C) 14 (350) 6 (150) 3 (75) LENGTH
+-30°F (-34°C) 16 (400) 8 (200) 4 (100) "A" CLEARANCE
+DIMENSION HOLE
+-40°F (-40°C) 18 (450) 8 (200) 4 (100)
+-50°F (-46°C) 20 (500) 10 (250) 6 (150)
+-60°F (-51°C) 20 (500) 10 (250) 6 (150)
+* FOR AMBIENT TEMPERATURES EXPOSED TO THE DISCHARGE
+END OF THE SPRINKLER THAT OCCUR BETWEEN THE VALUES
+LISTED, USE THE NEXT COLDER TEMPERATURE.
+** THE MINIMUM EXPOSED BARREL LENGTH IS NOT THE SAME
+AS THE "A" DIMENSION. THE MINIMUM EXPOSED BARREL
+LENGTH IS BASED ON A PROPERLY SEALED PENETRATION COVER PLATE
+CEILING
+WITH A MAXIMUM WIND VELOCITY ON THE EXPOSED
+SPRINKLER OF 30 MPH (48 KM/H). LONGER EXPOSED BARREL PROTECTED
+LENGTHS WILL HELP AVOID FREEZING OF THE WET PIPING AREA
+WHERE HIGHER WIND VELOCITY IS EXPECTED. 051_INSTALL
+*** THE MINIMUM EXPOSED BARREL LENGTH IS MEASURED
+FROM THE FACE OF THE FITTING TO THE INSIDE FACE OF THE
+INSULATION, WALL, OR CEILING LEADING TO THE COLD SPACE,
+WHICHEVER IS CLOSEST TO THE FITTING.
+--- PAGE 4 ---
+Figure 3
+Bulletin 051 Page 5 of 8
+September 2025 www.reliablesprinkler.com
+--- PAGE 5 ---
+Acceptable and Unacceptable Installation Practices for Steel Pipe Fittings Figure 4
+Bulletin 051 Page 6 of 8
+September 2025 www.reliablesprinkler.com
+YRD DNEP
+THREADED THREADED THREADED PLUG THREADED WELD-O-LET ELBOW
+TEE TEE TEE TEE
+PLUG
+PLUG COUPLING
+THREADED THREADED
+TEE (2) TEE PLUG
+DRY DRY
+HSW HSW
+YRD RPU
+YRD DNEP YRD DNEP YRD DNEP YRD DNEP YRD DNEP YRD DNEP
+THREADED
+TEE (2)
+YRD RPU
+THREADED
+TEE
+PLUG
+YRD RPU
+THREADED
+TEE
+PLUG
+YRD RPU
+THREADED
+TEE
+PLUG
+YRD RPU
+ELBOW
+COUPLING
+YRD RPU
+ACCEPTABLE INSTALLATIONS FOR DRY PENDENT SPRINKLERS UNACCEPTABLE INSTALLATIONS FOR DRY PENDENT SPRINKLERS
+NOTES: NOTES:
+1. EXPOSED LENGTH OF DRY BARREL INSIDE OF CONDITIONED SPACE TO BE IN ACCORDANCE WITH THIS BULLETIN AND NFPA 13. 1. IN ADDITION TO THE UNACCEPTABLE INSTALLATIONS ABOVE, DRY PENDENT SPRINKLERS
+SHALL NOT BE INSTALLED INTO MECHANICAL TEES (SADDLE OR U-BOLT STYLE), OR
+INTERNALLY GASKETED CPVC FITTINGS.
+ACCEPTABLE INSTALLATIONS FOR DRY SIDEWALL SPRINKLERS UNACCEPTABLE INSTALLATIONS FOR DRY SIDEWALL SPRINKLERS
+THREADED THREADED THREADED
+TEE TEE PLUG (3) TEE
+DRY DRY DRY ELBOW DRY COUPLING DRY
+PLUG (3) HSW PLUG HSW HSW HSW HSW
+NOTES: NOTES:
+1. EXPOSED LENGTH OF DRY BARREL INSIDE OF CONDITIONED SPACE TO BE IN ACCORDANCE WITH THIS BULLETIN AND NFPA 13. 1. IN ADDITION TO THE UNACCEPTABLE INSTALLATIONS ABOVE, DRY SIDEWALL SPRINKLERS
+2. WELD-O-LETS IN COMPLIANCE WITH NFPA 13 REQUIREMENTS ALSO ACCEPTABLE FOR DRY SIDEWALL SPRINKLERS. SHALL NOT BE INSTALLED INTO MECHANICAL TEES (SADDLE OR U-BOLT STYLE), OR
+3. PREFERRED ORIENTATION OF PLUG IS DOWN. INTERNALLY GASKETED CPVC FITTINGS.
+ACCEPTABLE INSTALLATIONS FOR DRY UPRIGHT SPRINKLERS UNACCEPTABLE INSTALLATIONS FOR DRY UPRIGHT SPRINKLERS
+NOTES: NOTES:
+1. EXPOSED LENGTH OF DRY BARREL INSIDE OF CONDITIONED SPACE TO BE IN ACCORDANCE WITH THIS BULLETIN AND NFPA 13. 1. IN ADDITION TO THE UNACCEPTABLE INSTALLATIONS ABOVE, DRY UPRIGHT SPRINKLERS
+2. WELD-O-LETS IN COMPLIANCE WITH NFPA 13 REQUIREMENTS ALSO ACCEPTABLE FOR DRY UPRIGHT SPRINKLERS. SHALL NOT BE INSTALLED INTO MECHANICAL TEES (SADDLE OR U-BOLT STYLE), OR
+INTERNALLY GASKETED CPVC FITTINGS.
+--- PAGE 6 ---
+Material Specifications Figure 5
+MATERIAL SPECIFICATIONS
+10 11
+5
+12
+18
+13
+9
+20
+17
+15
+1
+8
+7
+19
+6
+14
+16
+4
+3 051_MATERIAL
+2
+Bulletin 051 Page 7 of 8
+September 2025 www.reliablesprinkler.com
+--- PAGE 7 ---
+Ordering Information
+Model FC Wrench
+Specify:
+Model G5-56 Concealed Dry Pendent Sprinkler
+Temperature Rating
+• Ordinary 165°F (74°C) with 135°F (57°C) cover plate
+• Intermediate 212°F (100°C) with 165°F (74°C) cover
+plate
+Cover Plate Finish
+• See page 2, also reference techical bulletin 203.
+Length(1)
+• “A” dimension is measured from face of fitting to face
+of finished ceiling or wall in 1/4” (6mm) increments.
+Installation Wrench
+Maintenance
+• Model FC
+Reliable Model G5-56 series sprinklers should be inspected and
+Notes:
+the sprinkler system maintained in accordance with NFPA 25, as
+1. Lengths are based upon a normally gauged pipe thread
+well as the requirements of any Authorities Having Jurisdiction.
+“make-up” of .60 inch (15mm) per ANSI B2.1 (approximately
+Prior to installation, sprinklers should remain in the original
+7-1/2 threads).
+cartons and packaging until used. This will minimize the potential
+for damage to sprinklers that could cause improper operation or
+non-operation.
+Do not clean sprinklers with soap and water, ammonia liquid or
+any other cleaning fluids. Remove dust by gentle vacuuming
+without touching the sprinkler.
+Replace any sprinkler which has been painted (other than factory
+applied). A stock of spare sprinklers should be maintained to
+allow quick replacement of damaged or operated sprinklers.
+Failure to properly maintain sprinklers may result in inadvertent
+operation or non-operation during a fire event.
+Guarantee
+For the Reliable Automatic Sprinkler Co., Inc. guarantee, terms,
+and conditions, visit www.reliablesprinkler.com.
+Patents
+US Patent Nos. 5,775,431 & 5,967,240
+Bulletin 051 Page 8 of 8
+September 2025 www.reliablesprinkler.com
+0840799999
+N/P

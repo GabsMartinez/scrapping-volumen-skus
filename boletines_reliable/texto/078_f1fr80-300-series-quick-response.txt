@@ -1,0 +1,201 @@
+--- PAGE 0 ---
+Bulletin 078 June 2025
+F1FR80-300 Series
+Quick Response Sprinklers
+K-factor 8.0 (115)
+Features
+Important! Reliable fire sprinklers must be handled, stored, and
+• Standard coverage quick-response sprinklers installed in accordance with the guidelines in Caution Sheet 310
+• 300 psi (20.7 bar) rated and this bulletin. Failure to follow these instructions may result in
+• Upright and pendent deflectors unintended operation or nonoperation of the fire protection system.
+• Low profile, compact design
+• Available in a wide variety of finishes
+Product Description
+Reliable Model F1FR80-300 series sprinklers are 300 psi
+(20.7 bar) rated, quick-response standard spray automatic fire
+sprinklers utilizing a sensitive 3.0 mm glass bulb thermal element.
+Pendent sprinklers may be installed exposed or surface mounted
+using escutcheons such as the Reliable Models B, C, or HB
+(reference Technical Bulletin 204). When installed recessed,
+Model F1FR80-300 series sprinklers are specifically listed
+with and may only be installed with listed Reliable recessed Model F1FR80-300 Upright
+escutcheons. Refer to the technical information on the following
+pages for specific listings for recessed installations and refer to
+Figure 3 for dimensional information.
+Table A provides a summary of the approvals and availability
+of specific Model F1 series sprinkler configurations. Additional
+technical information for each sprinkler model is provided on the
+following pages.
+Model F1FR80-300 Pendent
+Note: Not all versions of the product are shown.
+F1FR80-300 Series Sprinkler Summary Table A
+Sprinkler
+Sprinkler K-Factor gpm/psi1/2 Max. Working Pressure
+Orientation Listings & Approvals Identification
+Model (lpm/bar1/2) psi (bar)
+Number (SIN)
+Upright RA7822
+F1FR80-300 8.0 (115) cULus 300 (20.7)
+Pendent RA7812
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model F1FR80-300 Upright Sprinkler SIN RA7822
+Technical Specifications Temperature Ratings
+Style: Upright 135°F (57°C)
+Threads: 3/4” NPT or ISO 7-R3/4 155°F (68°C)
+Nominal K-Factor: 8.0 (115) 175°F (79°C)
+Max. Working Pressure: 300 psi (20.7 bar) 200°F (93°C)
+286°F (141°C)
+Material Specifications
+Thermal Sensor: 3 mm Glass Bulb Sprinkler Wrenches
+Sprinkler Frame: Brass Alloy Model W2
+Cap: Bronze Alloy
+Sealing Washer: Nickel with PTFE
+Listings and Approvals
+Load Screw: Copper Alloy
+cULus
+Deflector: Brass Alloy
+Sprinkler Finishes
+(See Table B)
+Sensitivity
+Quick response
+Model F1FR80-300 Upright Sprinkler Components and Dimensions Figure 1
+Load Screw 1 3/8" [36mm]
+Deflector
+Glass Bulb
+(3 mm)
+F1FR_THREE QTR_UPR
+2 3/8" [62mm]
+Wrench Flat
+Cap/Seal Assembly
+Threads
+Bulletin 078 Page 2 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model F1FR80-300 Pendent Sprinkler SIN RA7812
+Technical Specifications
+Temperature Ratings(1)
+Style:
+135°F (57°C)
+Pendent
+155°F (68°C)
+Recessed Pendent
+175°F (79°C)
+Threads: 3/4” NPT or ISO 7-R3/4
+200°F (93°C)
+Nominal K-Factor: 8.0 (115)
+286°F (141°C)
+Max. Working Pressure: 300 psi (20.7 bar)
+Material Specifications Recessed Escutcheons
+Thermal Sensor: 3 mm Glass Bulb Model F1
+Sprinkler Frame: Brass Alloy Model F2
+Cap: Bronze Alloy
+Sealing Washer: Nickel with PTFE Sprinkler Wrenches
+Load Screw: Copper Alloy Model W2 (non-recessed)
+Deflector: Brass Alloy Model W1 (recessed)
+Sprinkler Finishes Listings and Approvals
+(See Table B) cULus Listed
+Sensitivity
+Quick response
+Notes:
+1. 286°F (141°C) temperature rated sprinkler not listed for recessed use.
+2. Not suitable for recessed pendent installations.
+Model F1FR80-300 Pendent Sprinkler Components and Dimensions Figure 2
+2 3/8" [60mm]
+1-3/16" [30mm]
+Note: Please refer to Figure 3 for recessed installation.
+Bulletin 078 Page 3 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 3 ---
+Recessed Installation: Pendent Sprinklers Figure 3
+2-1/4" 2-1/4"
+(57 mm) Dia. (57 mm) Dia.
+Hole in Ceiling Hole in Ceiling
+1-15/16" 1-15/16"
+(49 mm) Dia. Reducing (49 mm) Dia. Reducing
+Fitting Fitting
+Face of Fitting Face of Fitting
+to Face of Ceiling to Face of Ceiling
+1-1/8" (29 mm) at 7/8" (22 mm) at
+Max. Recess Max. Recess
+3/8" (10 mm) at 3/8" (10 mm) at
+Min. Recess Min. Recess
+1-3/4" 1-3/4"
+(44 mm) 1" (44 mm) 1-1/4"
+(25 mm) (32 mm)
+Minimum Maximum Minimum Maximum
+Recess 2-7/8" (72 mm) Dia. Recess Recess 2-7/8" (72 mm) Dia. Recess
+Models F1 & F1FR Pendent Sprinkler Models F1 & F1FR Pendent Sprinkler
+with Model F1 Recessed Escutcheon with Model F2 Recessed Escutcheon
+3/4" (19mm) Nominal Adjustment 1/2" (13mm) Nominal Adjustment
+F1_REC_PEND_NO FP
+F1 Recessed Escutcheon
+(F2 similar)
+Bulletin 078 Page 4 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 4 ---
+Wrenches
+Model W1 (recessed)
+Model W2 (upright, surface mount, exposed)
+Finishes(1) Table B
+Standard Finishes Special Application Finishes
+Sprinkler F1 Escutcheon Sprinkler F1 Escutcheons
+Bronze Brass Electroless Nickel PTFE(2) Bright Brass
+Chrome Plated Chrome Plated Bright Brass(3) Satin Chrome
+White Polyester(2) White Polyester Satin Chrome Custom Color Polyester
+Custom Color Polyester(2)
+Notes:
+1. Paint or any other coating applied over the factory finish will void all approvals and warranties.
+2. cULus Listed as corrosion resistant.
+3. For 200°F (93°C) maximum temperature rated sprinklers only.
+Installation Maintenance
+Model F1FR Series sprinklers must be installed in accordance Reliable Model F1FR80-300 series sprinklers should be
+with NFPA13 and the requirements of all applicable authorities inspected and the sprinkler system maintained in accordance
+having jurisdiction. Model F1FR80-300 Series sprinklers must be with NFPA 25, as well as the requirements of any Authorities
+installed with the Reliable sprinkler installation wrench identified Having Jurisdiction.
+in this bulletin. Any other wrench may damage the sprinkler.
+A leak tight sprinkler joint can be obtained with a torque of 8 Prior to installation, sprinklers should remain in the original
+to 18 lb-ft (11 to 24 N.m). Do not tighten sprinklers over the cartons and packaging until used. This will minimize the potential
+maximum recommended installation torque. Exceeding the for damage to sprinklers that could cause improper operation or
+maximum recommended installation torque may cause leakage non-operation.
+or impairment of the sprinkler.
+Do not clean sprinklers with soap and water, ammonia liquid or
+Glass bulb sprinklers have orange bulb protectors or protective any other cleaning fluids. Remove dust by gentle vacuuming
+caps to minimize bulb damage during shipping, handling and without touching the sprinkler.
+installation. Reliable sprinkler installation wrenches are designed
+to install sprinklers with bulb protectors in place. Remove the Replace any sprinkler which has been painted (other than factory
+bulb protector at the time when the sprinkler system is placed in applied). A stock of spare sprinklers should be maintained to
+service for fire protection. Removal of the bulb protector before allow quick replacement of damaged or operated sprinklers.
+this time may leave the bulb vulnerable to damage. Remove bulb Failure to properly maintain sprinklers may result in inadvertent
+protectors by undoing the clasp by hand. Do not use tools to operation or non-operation during a fire event.
+remove bulb protectors.
+Bulletin 078 Page 5 of 6
+June 2025 www.reliablesprinkler.com
+--- PAGE 5 ---
+7260799999
+N/P
+Guarantee
+For the guarantee, terms, and conditions, visit www.
+reliablesprinkler.com.
+Ordering Information
+Specify the following when ordering:
+Model
+• F1FR80-300
+Deflector/Orientation
+• Upright
+• Pendent
+Temperature Rating
+• See sprinkler technical specifications
+Sprinkler Finish
+• See Table B
+Recessed Escutcheon*
+• F1
+• F2
+Escutcheon Finish
+• See Table B
+Sprinkler Wrench
+• Model W2 (upright, non-recessed pendent)
+• Model W1 (recessed pendent)
+Note: 286°F (141°C) sprinklers are not listed to be used recessed.
+Bulletin 078 Page 6 of 6
+June 2025 www.reliablesprinkler.com

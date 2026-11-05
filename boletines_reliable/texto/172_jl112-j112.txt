@@ -1,0 +1,313 @@
+--- PAGE 0 ---
+Bulletin 172 August 2024
+Model J112 and JL112 Sprinklers
+Extended Coverage Sprinklers for
+Light Hazard and Ordinary Hazard
+cULus Listed
+K11.2 (160 metric)
+Product Description
+Important! Reliable fire sprinklers must be handled, stored, and
+installed in accordance with the guidelines in Caution Sheet 310
+Model J112 and JL112 series sprinklers are cULus Listed
+and this bulletin. Failure to follow these instructions may result in
+extended coverage spray sprinklers intended for installation in
+unintended operation or nonoperation of the fire protection system.
+accordance with NFPA 13. The sprinklers also have cULus Listed
+Specific Application Criteria for installation under concrete tee
+construction in accordance with the requirements documented
+in this bulletin. Coverage areas up to 400 ft2 (37 m2) per sprinkler
+with a maximum spacing of up to 20 ft by 20 ft (6.1 m by 6.1
+m) are permitted for both Light Hazard and Ordinary Hazard
+occupancies. Listed flows and pressures for each hazard
+classification and sprinkler spacing are provided in this bulletin.
+Model J112 and JL112 series sprinkler are cULus Listed as
+quick-response sprinklers for Light Hazard occupancies. When
+used in the Ordinary Hazard occupancies, Model J112 and
+JL112 series sprinklers are cULus Listed as quick-response for
+spacings up to 14 ft by 14 ft (4.3 m by 4.3 m) and standard-
+response for other listed spacings up to 20 ft by 20 ft (6.1 m by
+Model JL112 Upright Model J112 Upright
+6.1 m).
+Model J112 Pendent and J112 Upright sprinklers use a glass
+bulb operating element and are cULus Listed as Corrosion
+Resistant Sprinklers when ordered with Polyester or Electroless
+Nickel PTFE (ENT) finish. Model JL112 Pendent and JL112
+Upright sprinklers use a fusible link operating element. Model
+J112 Pendent and Model JL112 Pendent sprinklers are cULus
+Listed for use with the Model F2 and Model FP recessed
+escutcheons, which provide up to ½ inch (13 mm) of adjustment.
+In addition, for Ordinary Hazard occupancies, the Model J112
+Pendent and Model JL112 Pendent sprinklers are cULus Listed
+Model JL112 Pendent Model J112 Pendent
+for use with the Model F1 recessed escutcheon that provides up
+to ¾ inch (19 mm) of adjustment.
+Application
+Model J112 and JL112 series sprinklers are intended for
+installation in Light Hazard and Ordinary Hazard occupancies
+in accordance with NFPA 13. The sprinklers must be installed
+in accordance with the requirements of NFPA 13 for extended
+coverage spray sprinklers and the requirements identified in this
+bulletin. In addition to the installation requirements of NFPA 13,
+cULus Listed Specific Application Criteria for installation under
+concrete tee construction is provided in this bulletin.
+F1/F2 Recessed Escutcheon FP Recessed Escutcheon
+Model J112 and JL112 Series Sprinkler Summary Table A
+Sprinkler Identification Number
+Model Orientation Operating Element
+(SIN)
+J112 Pendent Glass Bulb RA7216
+JL112 Pendent Fusible Link R7216
+J112 Upright Glass Bulb RA7326
+JL112 Upright Fusible Link R7326
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model J112 Pendent Sprinkler SIN RA7216
+Technical Specifications Finishes
+Style: Extended Coverage Pendent (See Table G)
+Threads: 3/4” NPT or ISO 7-1R3/4
+Nominal K-Factor: 11.2 (160 metric) Sensitivity
+Max. Working Pressure: 175 psi (12 bar) (See Table B)
+Min. Spacing: 8 ft. (2.4 m)
+Temperature Ratings
+Material Specifications 155°F (68°C)
+Thermal Sensor: Glass Bulb 200°F (93°C)
+Cup: Bronze Alloy 286°F (141°C)
+Frame: Brass Alloy
+Sealing Assembly: Nickel Alloy with PTFE Recessed Escutcheons
+Load Screw: Bronze Alloy F1-3/4” (19mm) adjustment (Ordinary Hazard only)
+Kick Spring: Steel Alloy F2-1/2” (13mm) adjustment
+Deflector: Brass Alloy FP-1/2” (13mm) adjustment
+Sprinkler Wrench Listings and Approvals
+Model J1 cULus Listed
+Model RJ (recessed) cULus Listed as Corrosion Resistant
+with Polyester and ENT finish only
+Model J112 Pendent Sprinkler Components Figure 1
+Listed Design Criteria and Sensitivity Table B
+Ordinary Hazard Ordinary Hazard
+Max. Spacing Light Hazard Group 1 Group 2
+ft. x ft.
+(m x m) Flow Pressure Flow Pressure Flow Pressure
+gpm (l/m) psi (bar) gpm (l/m) psi (bar) gpm (l/m) psi (bar)
+12 x 12 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(3.7 x 3.7) QR QR QR QR QR QR
+14 x 14 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(4.3 x 4.3) QR QR QR QR QR QR
+16 x 16 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8) 51 (193) 20.7 (1.4)
+(4.9 x 4.9) QR QR SR SR SR SR
+18 x 18 33 (125) 8.7 (0.60) 49 (186) 19.1 (1.3) 65 (246) 33.7 (2.3)
+(5.5 x 5.5) QR QR SR SR SR SR
+20 x 20 40 (152) 12.8 (0.88) 60 (227) 28.7 (2.0) 80 (303) 51.0 (3.5)
+(6.1 x 6.1) QR QR SR SR SR SR
+QR = Quick-response
+SR = Standard-response
+Bulletin 172 Page 2 of 7
+August 2024 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model JL112 Pendent Sprinkler SIN R7216
+Technical Specifications Finishes
+Style: Extended Coverage Pendent (See Table G)
+Threads: 3/4” NPT or ISO 7-1R3/4
+Nominal K-Factor: 11.2 (160 metric) Sensitivity
+Max. Working Pressure: 175 psi (12 bar) (See Table C)
+Min. Spacing: 8 ft. (2.4 m)
+Temperature Rating*
+Material Specifications 165°F (74°C)
+Thermal Sensor: Nickel Alloy Solder Link 212°F (100°C)
+Frame: Brass Alloy
+Levers: Brass Alloy Recessed Escutcheons
+Cap: Bronze Alloy F1-3/4” (19mm) adjustment (Ordinary Hazard only)
+Sealing Assembly: Nickel Alloy with PTFE F2-1/2” (13mm) adjustment
+Load Screw: Bronze Alloy FP-1/2” (13mm) adjustment
+Deflector: Brass Alloy
+Strut: Copper Alloy Listings and Approvals
+cULus Listed
+Sprinkler Wrench
+Model J1
+Model RJ (recessed)
+Model J112 Pendent Sprinkler Components Figure 2
+Listed Design Criteria and Sensitivity Table C
+Ordinary Hazard Ordinary Hazard
+Max. Spacing Light Hazard Group 1 Group 2
+ft. x ft.
+(m x m) Flow Pressure Flow Pressure Flow Pressure
+gpm (l/m) psi (bar) gpm (l/m) psi (bar) gpm (l/m) psi (bar)
+12 x 12 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(3.7 x 3.7) QR QR QR QR QR QR
+14 x 14 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(4.3 x 4.3) QR QR QR QR QR QR
+16 x 16 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8) 51 (193) 20.7 (1.4)
+(4.9 x 4.9) QR QR SR SR SR SR
+18 x 18 33 (125) 8.7 (0.60) 49 (186) 19.1 (1.3) 65 (246) 33.7 (2.3)
+(5.5 x 5.5) QR QR SR SR SR SR
+20 x 20 40 (152) 12.8 (0.88) 60 (227) 28.7 (2.0) 80 (303) 51.0 (3.5)
+(6.1 x 6.1) QR QR SR SR SR SR
+QR = Quick-response
+SR = Standard-response
+Bulletin 172 Page 3 of 7
+August 2024 www.reliablesprinkler.com
+--- PAGE 3 ---
+Model J112 Upright Sprinkler SIN RA7326
+Technical Specifications Finishes
+Style: Extended Coverage Upright (See Table G)
+Threads: 3/4” NPT or ISO 7-1 R3/4
+Nominal K-Factor: 11.2 (160 metric) Sensitivity
+Max. Working Pressure: 175 psi (12 bar) (See Table D)
+Min. Spacing: 8 ft. (2.4 m)
+Temperature Rating
+Material Specifications 155°F (68°C)
+Thermal Sensor: Glass Bulb 200°F (93°C)
+Cup: Bronze Alloy 286°F (141°C)
+Frame: Brass Alloy
+Sealing Assembly: Nickel Alloy with PTFE Sprinkler Wrench
+Load Screw: Bronze Alloy Model J1
+Kick Spring: Steel Alloy
+Deflector: Brass Alloy Listings and Approvals
+cULus Listed
+cULus Listed as Corrosion Resistant
+with Polyester and ENT finish only
+Model J112 Upright Sprinkler Components Figure 3
+Listed Design Criteria and Sensitivity Table D
+Ordinary Hazard Ordinary Hazard
+Max. Spacing Light Hazard Group 1 Group 2
+ft. x ft.
+(m x m) Flow Pressure Flow Pressure Flow Pressure
+gpm (l/m) psi (bar) gpm (l/m) psi (bar) gpm (l/m) psi (bar)
+12 x 12 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(3.7 x 3.7) QR QR QR QR QR QR
+14 x 14 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(4.3 x 4.3) QR QR QR QR QR QR
+16 x 16 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8) 51 (193) 20.7 (1.4)
+(4.9 x 4.9) QR QR SR SR SR SR
+18 x 18 33 (125) 8.7 (0.60) 49 (186) 19.1 (1.3) 65 (246) 33.7 (2.3)
+(5.5 x 5.5) QR QR SR SR SR SR
+20 x 20 40 (152) 12.8 (0.88) 60 (227) 28.7 (2.0) 80 (303) 51.0 (3.5)
+(6.1 x 6.1) QR QR SR SR SR SR
+QR = Quick-response
+SR = Standard-response
+Bulletin 172 Page 4 of 7
+August 2024 www.reliablesprinkler.com
+--- PAGE 4 ---
+Model JL112 Upright Sprinkler SIN R7326
+Technical Specifications Finishes
+Style: Extended Coverage Upright (See Table G)
+Threads: 3/4” NPT or ISO 7-1 R3/4
+Nominal K-Factor: 11.2 (160 metric) Sensitivity
+Max. Working Pressure: 175 psi (12 bar) (See Table E)
+Min. Spacing: 8 ft. (2.4 m)
+Temperature Rating*
+Material Specifications 165°F (74°C)
+Thermal Sensor: Nickel Alloy Solder Link 212°F (100°C)
+Frame: Brass Alloy
+Levers: Brass Alloy Sprinkler Wrench
+Strut: Brass Alloy Model J1
+Cap: Bronze Alloy
+Sealing Assembly: Nickel Alloy with PTFE Listings and Approvals
+Load Screw: Bronze Alloy cULus Listed
+Deflector: Brass Alloy
+Model JL112 Upright Sprinkler Components Figure 4
+Listed Design Criteria and Sensitivity Table E
+Ordinary Hazard Ordinary Hazard
+Max. Spacing Light Hazard Group 1 Group 2
+ft. x ft.
+(m x m) Flow Pressure Flow Pressure Flow Pressure
+gpm (l/m) psi (bar) gpm (l/m) psi (bar) gpm (l/m) psi (bar)
+12 x 12 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(3.7 x 3.7) QR QR QR QR QR QR
+14 x 14 30 (114) 7.2 (0.50) 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8)
+(4.3 x 4.3) QR QR QR QR QR QR
+16 x 16 30 (114) 7.2 (0.50) 39 (148) 12.1 (0.8) 51 (193) 20.7 (1.4)
+(4.9 x 4.9) QR QR SR SR SR SR
+18 x 18 33 (125) 8.7 (0.60) 49 (186) 19.1 (1.3) 65 (246) 33.7 (2.3)
+(5.5 x 5.5) QR QR SR SR SR SR
+20 x 20 40 (152) 12.8 (0.88) 60 (227) 28.7 (2.0) 80 (303) 51.0 (3.5)
+(6.1 x 6.1) QR QR SR SR SR SR
+QR = Quick-response
+SR = Standard-response
+Bulletin 172 Page 5 of 7
+August 2024 www.reliablesprinkler.com
+--- PAGE 5 ---
+Model J112 and JL112 Specific Application Criteria for Use Under Concrete Tee Construction cULus Listed
+The Model J112 and JL112 pendent and upright sprinklers are cULus Listed for installation under concrete tee construction in accordance
+with the following specific application criteria:
+• Max. Tee Depth: 2’- 6” (0.8m)
+• Max. Tee Stem Spacing: 7’- 6” (2.3m)
+• Min. Tee Stem Spacing: 3’- 0” (0.9m)
+• Max. Tee Length: 32’- 0” (9.8m) or non-combustible baffles not less than the depth of the tees must be installed so that the longitudinal
+space between baffles does not exceed 32ft (9.8m) in length.
+• Max. Deflector distance below Tee: 1” (25mm)
+• Comply with obstructions to the Sprinkler Discharge Pattern Development requirements of the NFPA13 where deflector is located
+above bottom of tee.
+Application and Installation for Use Under Concrete Tee Figure 5
+2’-6” (0.8m)
+max.
+1” (25mm) max.
+1” (25mm) max.
+7’-6” (2.3m) max.
+3’-0” (0.9m) min.
+Model FP Escutcheon Model F1/F2 Escutcheon
+Installation Dimensions Figure 6 Installation Dimensions Figure 7
+Note: The Model FP, F1, or F2 may be used for ordinary hazard occupancies. For light hazard occupancies, the Model FP or F2 re-
+cessed escutcheon must be used. Model J112 and JL112 sprinklers with Model F1 recessed escutcheon are not listed for use in light
+hazard occupancies.
+Bulletin 172 Page 6 of 7
+August 2024 www.reliablesprinkler.com
+--- PAGE 6 ---
+0130799999
+N/P
+Sprinkler & Escutcheon Finishes (1) Table G
+Standard Finishes Special Application Finishes
+Sprinkler F1, F2, & FP(3) Escutcheons Sprinkler F1, F2, & FP(3) Escutcheons
+Bronze Brass Bright Brass Bright Brass
+Chrome Plated Chrome Plated Satin Chrome Satin Chrome
+White Polyester (2) White Polyester Custom Color Polyester(2) Custom Color Polyester
+Electroless Nickel PTFE (2) (4) Type 316 Stainless Steel
+Notes: (1) Paint or any other coating applied over the factory finish will void all approvals and warranties.
+(2) cULus Listed Corrosion Resistant when ordered with Model J112 Pendent (RA7216) or Model J112 Upright (RA7326).
+(3) The Model FP escutcheon assembly consists of an unfinished galvanized cup with a finished escutcheon ring.
+(4) Available with Model J112 Pendent (RA7216) and Model J112 Upright (RA7326) only.
+Installation
+J1 Wrench RJ Wrench
+Glass bulb sprinklers have orange bulb protectors to minimize bulb
+damage during shipping, handling, and installation. Reliable sprin-
+kler installation wrenches are designed to install sprinklers with
+bulb protectors in place. Remove the bulb protector at the time
+when the sprinkler system is placed in service for fire protection.
+Removal of the bulb protector before this time may leave the bulb
+vulnerable to damage. Remove bulb protectors by undoing the
+clasp by hand. Do not use tools to remove bulb protectors.
+Models J112 and JL112 series sprinklers must be installed with the
+Reliable sprinkler installation wrench identified in this bulletin. Any
+other wrench may damage the sprinkler. Recommended installa-
+tion torque is 14 to 20 lb.ft (19 to 27 N.m). Do not tighten sprinklers
+over the maximum recommended installation torque. Exceeding Listings and Approvals
+the maximum recommended installation torque may cause leak-
+age or impairment of the sprinkler.
+Listed by Underwriters Laboratories, Inc. and certified by
+Underwriters Laboratories of Canada (cULus)
+Recessed pendent sprinklers are to be installed as shown in Fig. 6
+or Fig 7., as applicable to the specific model being installed. Mod-
+UL Listing Category
+els J112 and JL112 series recessed pendent sprinklers may only
+be installed with the Reliable Model F1, Model F2, or Model FP
+recessed escutcheon. The use of any other recessed escutcheon Sprinklers, Automatic and Open Extended Coverage Sprinklers
+will void all approvals and negate all warranties. The Reliable Model UL Guide Number – VNIV.
+FP escutcheon may not be used in ceilings having positive pres-
+sure with respect to the space below. Ensure that the openings in Ordering Information
+the Model FP escutcheon/can assembly are unobstructed follow-
+ing installation. Specify:
+1. Sprinkler Model: [J112 Pendent] [JL112 Pendent]
+Maintenance
+[J112 Upright] [JL112 Upright]
+Models J112 and JL112 series sprinklers should be inspected and 2. Temperature Rating: J112: [155°F (68°C)] [200°F (93°C)]
+the sprinkler system maintained in accordance with NFPA 25. Do [286°F (141°C)]
+not clean sprinklers with soap and water, ammonia or any other JL112: [165°F (74°C)] [212°F (100°C)]
+cleaning fluids. Remove dust by gentle vacuuming. Replace any 3. Finish: (See Table G)
+sprinkler which has been painted (other than factory applied) or 4. Escutcheon (Pendent Only; for 3/4” threads)
+damaged in any way. A stock of spare sprinklers should be main- Model F1 (Ordinary Hazard Only)
+tained to allow quick replacement of damaged or operated sprin- Model F2
+klers. Prior to installation, sprinklers should be maintained in the Model FP
+original cartons and packaging until used to minimize the potential
+for damage to sprinklers that would cause improper operation or
+non-operation.
+Bulletin 172 Page 7 of 7
+August 2024 www.reliablesprinkler.com

@@ -1,0 +1,235 @@
+--- PAGE 0 ---
+Bulletin 070 June 2025
+Model P25 ESFR
+Pendent Sprinklers
+175 psi (12 bar) rated
+Features
+Important! Reliable fire sprinklers must be handled, stored, and
+• cULus Listed as an ESFR sprinkler installed in accordance with the guidelines in Caution Sheet 310
+• cULus Specific Application Listing for Protection of Storage and this bulletin. Failure to follow these instructions may result in
+under Ceiling Heights up to 48 ft (14.6 m) unintended operation or nonoperation of the fire protection system.
+• FM Approved as a quick-response storage and non-storage
+sprinkler
+• CE Certificate of Constancy of Performance
+• Robust fusible link operating element
+• Compact design
+Product Description
+The Reliable Model P25 is an Early Suppression Fast Response
+(ESFR) fire sprinkler with a nominal K-factor of 25.2 (360
+metric). The sprinkler uses a levered fusible alloy solder link in
+either a 165°F (74°C) or a 212°F (100°C) temperature rating.
+These sprinklers are designed to respond quickly to growing
+fires and will deliver a heavy water discharge to suppress a fire.
+Suppression is considered a higher level of control characterized
+by a sharp reduction in heat release rate along with preventing
+regrowth of the fire.
+Model P25 ESFR sprinklers are designed to be shorter and more
+compact than other ESFR sprinklers, allowing greater flexibility Model P25 ESFR Sprinkler
+with regard to distance from ceilings and obstructions. The
+sprinklers are also less susceptible to damage due to smaller
+deflector and frame design. The lighter P25 ESFR sprinklers
+passed rough use and abuse listing tests without plastic tall under ceiling heights up to 48 ft (14.6 m) where aisles of 5 ft
+protectors. (1.5 m) or greater are provided. Refer to Table C for additional
+information on the cULus Specific Application Listing.
+The Model P25 sprinkler is cULus Listed as a K25.2 (K360
+metric) ESFR sprinkler for installation in accordance with The Model P25 fire sprinkler may also be used as an in-rack
+NFPA 13, including the design criteria for K25.2 (K360 metric) sprinkler where permitted by NFPA or FM. FM Approved sprinkler
+ESFR sprinklers. FM Approvals classifies the Model P25 as a guards and water shields are available when the Model P25 is
+quick-response storage and non-storage sprinkler when used used in this application.
+in accordance with FM Global Property Loss Prevention Data
+Sheets. Refer to Table B for additional information on applicable The Model P25 sprinkler also has a Certificate of Constancy of
+NFPA 13 and FM Global design critera. Performance in compliance with EU Regulation No. 305/2011, the
+Construction Products Regulation (CPR), based on ETA 23/0132
+In addition to the general cULus Listing, the Model P25 ESFR issued 23 January 2024 and EAD 10002-00-1006 dated March
+sprinkler in 212°F (100°C) temperature rating also has a cULus 2016 (CE).
+Specific Application Listing for protection of Class I-IV and
+cartoned unexpanded Group A plastic commodity in single- and To further the development of environmentally compatible and
+double-row open frame racks for storage up to 40 ft (12.2 m) more sustainable construction methods, Reliable has developed
+and ASTM International has published an Environmental Product
+Declaration (EPD) for the Model P25 sprinkler.
+Model P25 ESFR Pendent Sprinklers Table A
+Nominal K-factor Sprinkler Identification
+Model Approvals
+gpm/psi1/2 (L/min/bar1/2) Number (SIN)
+P25 25.2 (360) cULus, FM, CE R602
+www.reliablesprinkler.com
+--- PAGE 1 ---
+Model P25 ESFR Sprinkler SIN R602
+Technical Specifications Sensitivity
+Style: Pendent Fast-Response
+Connection: Quick-Response (FM)
+1” NPT
+ISO7-1R1 (BSPT) threads Temperature Ratings
+Nominal K-Factor: 25.2 (360 metric) Ordinary: 165°F (74°C)
+Max. Working Pressure: 175 psi (12 bar) Intermediate: 212°F (100°C)
+Material Specifications Sprinkler Wrench
+Thermal Sensor: Nickel Alloy Solder Link Model W5
+Sprinkler Frame: Brass Alloy Model W16 (with guard)
+Cap: Bronze Alloy
+Sealing Assembly: Nickel Alloy with PTFE Guards & Shields*
+Load Screw: Bronze Alloy Model D-14 Guard
+Deflector: Bronze Alloy Model S-5 Shield
+Kick Spring: Nickel Alloy
+Listings and Approvals
+Sprinkler Finishes cULus Listed
+Bronze cULus Spec App Listed (Intermediate
+Temperature only)
+FM Approved
+CE (2809-CPR_M0055)
+*Note: Guard and guard/shield combination is available and is FM Approved for in-rack or intermediate level use only. Not approved for
+general use elsewhere.
+Model P25 Sprinkler Dimensions and Components Figure 1
+2" [52mm]
+THREADS
+1 5/8" [40mm]
+WRENCH
+BOSS
+2 7/8" [74mm]
+THERMAL CAP/SEAL
+ELEMENT
+STRUT
+LEVER LOAD SCREW
+DEFLECTOR
+THREADED
+070FG01
+Bulletin 070 Page 2 of 5
+June 2025 www.reliablesprinkler.com
+--- PAGE 2 ---
+Model P25 Sprinkler with Model D-14 Guard & S-5 Water Shield Figure 2
+4 1/2" [114mm]
+(S-5 Water Shield)
+070FG02
+When used without the S-5
+3 5/16" Water Shield, a 1" lock-nut is
+[85mm] required to secure the D-14
+Guard.
+3 5/16"
+[85mm]
+Note: Guard and guard/shield combination is available and is FM Approved for in-rack or intermediate level use only. Not approved for
+general use elsewhere.
+Model P25 Commodity Selection and Design Criteria Overview Table B
+Storage Type NFPA FM GLOBAL
+Sprinkler Type ESFR Storage
+Response Type ESFR Quick Response
+System Type Wet Wet
+Temperature Rating °F (°C) 165 (74), 212 (100) 165 (74), 212 (100)
+Roof Construction See NFPA 13 See FM Global 2-0
+Ceiling Slope See NFPA 13 See FM Global 2-0
+Maximum Coverage Area See NFPA 13 See FM Global 2-0
+Minimum Coverage Area See NFPA 13 See FM Global 2-0
+Maximum Spacing See NFPA 13 See FM Global 2-0
+Minimum Spacing See NFPA 13 See FM Global 2-0
+Minimum Clearance to Commodity See NFPA 13 See FM Global 2-0
+Sprinkler Distance to Ceiling See NFPA 13 See FM Global 2-0
+Open Frame, Single, Double, Multiple
+Row, or Portable Rack Storage of See NFPA 13 See FM 2-0 & 8-9
+Class I-IV, and Group A Plastics
+Solid Pile or Palletized Storage of
+See NFPA 13 See FM 2-0 & 8-9
+Class I - IV and Group A Plastics
+Idle Pallet Storage See NFPA 13 See FM 2-0, 8-9 & 8-24
+Rubber Tire Storage See NFPA 13 See FM 2-0 & 8-3
+Rolled Paper Storage See NFPA 13 See FM 8-21
+Flammable Liquid Storage See NFPA 30 See FM 7-29
+Aerosol Storage See NFPA 30B See FM 7-31
+Auto Components in Portable Racks See NFPA 13 See FM 2-0 and 8-9
+Bulletin 070 Page 3 of 5
+June 2025 www.reliablesprinkler.com
+--- PAGE 3 ---
+Model P25 Sprinkler Specific Application Listing Table C
+Specification Model P25
+Sprinkler Identification Number (SIN) R602
+Response Type ESFR
+Orientation Pendent
+Nominal K-factor, gpm/psi1/2 (L/min/bar1/2) 25.2 (360)
+Temperature Rating °F (°C) 212 (100)
+System Type Wet Pipe
+Max. Ceiling Slope, rise:run See NFPA 13
+Max. Sprinkler Spacing, ft (m) 10 (3.0)
+Min. Sprinkler Spacing, ft (m) 8 (2.4)
+Max. Area of Coverage, ft2 (m2) 100 (9.3)
+Min. Area of Coverage, ft2 (m2) 64 (5.9)
+Min. Distance from Walls, in. (mm) 4 (100)
+Max. Distance from Walls, ft. (m) 5 (1.5)
+Max. Deflector to
+14 (350)
+Ceiling Distance, in. (mm)
+Min. Deflector to Ceiling Distance See NFPA 13
+Min. Deflector to Top of
+36 (900)
+Storage Distance, in. (mm)
+Obstruction Criteria See NFPA 13
+Max. Ceiling Height, ft (m) 48 (14.6)
+Max. Storage Height, ft (m) 40 (12.2)
+Palletized, solid piled; open frame single-
+Storage Arrangement
+row, double-row, and portable rack
+Min. Aisle Width, ft (m) 5 (1.5)
+Flue Spaces Per NFPA 13
+Class I-IV commodities encapsulated and unencapsulated;
+Commodity
+and cartoned unexpanded Group A plastic commodities
+NFPA 13 for ESFR sprinklers based upon 50 psi (3.4 bar)
+Sprinkler System Design
+min. design pressure with 12 sprinkler remote area
+Hose Stream Allowance, gpm (L/min) 250 (950)
+Water Supply Duration, minutes 60
+Bulletin 070 Page 4 of 5
+June 2025 www.reliablesprinkler.com
+--- PAGE 4 ---
+Installation
+Wrenches Figure 3
+Model P25 sprinklers are intended for installation in accordance
+with NFPA 13 and FM Loss Prevention Data Sheets 2-0 and 8-9,
+as well as the requirements of any Authorities Having Jurisdiction.
+See Table B for information on NFPA and FM Global design
+criteria for the Model P25 sprinkler.
+Model W5 Wrench
+Caution: When handling sprinklers, hold sprinklers only by the
+frame arms and do not apply any force on the link assembly.
+Use only the Reliable Model W5 wrench to remove and install
+Model P25 ESFR sprinklers. If the Model P25 ESFR sprinkler and
+Model D-14 guard assembly is being removed or installed as a
+unit, then the Model W16 wrench must be used. Any other type
+of wrench may damage the sprinkler. The Model W5 wrench is
+designed to engage both the sides and back of the wrench boss Model W16 Wrench (with guard)
+to limit the potential for the wrench to slip during installation. After
+applying a thread sealant to the male sprinkler threads, Model
+P25 sprinklers should be tightened between 22-30 lb-ft (30-40
+Guarantee
+N.m) torque. Exceeding the maximum recommended torque may
+cause leakage or impairment of the sprinkler. Damaged sprinklers
+For the Reliable Automatic Sprinkler Co., Inc. guarantee, terms,
+must be replaced immediately.
+and conditions, visit www.reliablesprinkler.com.
+Failure to follow these installation instructions may results in leaks,
+inadvertent operation, or non-operation of sprinklers.
+Ordering Information
+Specify:
+Maintenance
+Sprinkler
+Reliable Model P25 sprinklers should be inspected and the
+• P25
+sprinkler system maintained in accordance with NFPA 25, as well
+as the requirements of any Authorities Having Jurisdiction.
+Temperature Rating
+• 165°F (74°C)
+Prior to installation, sprinklers should remain in the original • 212°F (100°C)
+cartons and packaging until used. This will minimize the potential
+for damage to sprinklers that could cause improper operation or Note: Sprinklers must be 212°F (100°C) for Specific
+non-operation. Application (48 ft [14.6 m] ceiling) use.
+Do not clean sprinklers with soap and water, ammonia liquid or End Connection
+any other cleaning fluids. Remove dust by gentle vacuuming • 1” NPT
+without touching the sprinkler. Replace any sprinkler which has • ISO7-1R1 (BSPT)
+been painted (other than factory applied).
+Optional FM Approved Guard and Shield
+Once operated, automatic sprinklers cannot be reassembled • Model D-14 Guard
+• Model S-5 Shield
+and/or reused. A stock of spare sprinklers should be maintained
+to allow quick replacement of damaged or operated sprinklers.
+Failure to properly maintain sprinklers may result in inadvertent
+operation or non-operation during a fire event.
+Bulletin 070 Page 5 of 5
+June 2025 www.reliablesprinkler.com
+9350799999
+N/P
