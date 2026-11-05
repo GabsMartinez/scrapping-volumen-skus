@@ -1,0 +1,23 @@
+# Credenciales (Supabase, etc.) -- usar .env.example como plantilla
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ruff_cache/
+.pytest_cache/
+
+# Renders temporales de PDFs (se regeneran con herramientas/render_mech_pdfs.py)
+data/capturas_fuentes/_render/
+
+# Excel abierto en Office deja estos archivos de bloqueo
+~$*.xlsx
+
+# Sistema / editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/

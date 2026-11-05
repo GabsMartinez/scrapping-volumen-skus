@@ -1,0 +1,10 @@
+# La imagen solo necesita el código; data/ y salidas/ se montan como
+# volumen en docker-compose.yml (y pesan cientos de MB en PDFs).
+.git
+.env
+data/
+salidas/
+docs/
+**/__pycache__
+*.pyc
+.ruff_cache

@@ -1,0 +1,50 @@
+# Nombre fijo del proyecto: así el volumen se llama siempre
+# scraper_precios_pgdata, sin importar desde qué carpeta se corra.
+name: scraper_precios
+
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: scraper_precios_postgres
+    environment:
+      POSTGRES_DB: ${DB_NAME:-scraper_precios}
+      POSTGRES_USER: ${DB_USER:-scraper}
+      POSTGRES_PASSWORD: ${DB_PASSWORD:-scraper_local_pw}
+    ports:
+      # Solo en localhost. Puerto configurable en .env (DB_PUERTO_HOST)
+      # para no chocar con otros Postgres que ya corran en la máquina.
+      - "127.0.0.1:${DB_PUERTO_HOST:-5437}:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      # Solo se ejecutan la PRIMERA vez que se crea el volumen: crea las
+      # tablas y carga los datos ya scrapeados/curados (db/datos/datos.sql).
+      - ./db/schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+      - ./db/datos/datos.sql:/docker-entrypoint-initdb.d/02_datos.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DB_USER:-scraper} -d ${DB_NAME:-scraper_precios}"]
+      interval: 5s
+      timeout: 5s
+      retries: 20
+
+  scraper:
+    build: .
+    container_name: scraper_precios_app
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      DB_HOST: postgres
+      DB_PORT: 5432
+      DB_NAME: ${DB_NAME:-scraper_precios}
+      DB_USER: ${DB_USER:-scraper}
+      DB_PASSWORD: ${DB_PASSWORD:-scraper_local_pw}
+    volumes:
+      # El código y data/ se montan en vivo: lo que el contenedor escribe
+      # (Excel, PDFs, capturas) aparece directo en la carpeta del proyecto.
+      - .:/app
+    # Se queda vivo para ejecutar comandos con:
+    #   docker compose exec scraper python main.py <comando>
+    command: ["tail", "-f", "/dev/null"]
+
+volumes:
+  pgdata:
